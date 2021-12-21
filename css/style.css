@@ -247,18 +247,3 @@ h3 {
         width: 160px;
     }
 }
-@media screen and (max-width: 400px){
-    .producto{
-        width: 140px;
-    }
-}
-@media screen and (max-width: 380px){
-    .producto{
-        width: 120px;
-    }
-}
-@media screen and (max-width: 360px){
-    .producto{
-        width: 100px;
-    }
-}
