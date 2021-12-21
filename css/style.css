@@ -109,7 +109,6 @@ h3 {
 .producto {
     background-color: var(--primarioOscuro);
     padding: 1rem;
-    min-width: 190px;
 }
 
 .producto__nombre {
