@@ -252,3 +252,8 @@ h3 {
         font-size: 2.0rem;
     }
  }
+@media screen and (max-width: 420){
+    .producto{
+        width: 160px;
+    }
+}
