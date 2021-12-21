@@ -226,6 +226,15 @@ h3 {
     background-color: var(--secundarioOscuro);
 }
 
+@media screen and (max-width: 1080px){
+    .producto{
+        width: 200px;
+    }
+    .producto__nombre{
+        font-size: 2.0rem;
+    }
+ }
+
 @media screen and (max-width: 509px){
    .producto{
        width: 220px;
