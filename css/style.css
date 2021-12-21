@@ -36,8 +36,10 @@ img {
     width: 100%;
 }
 .contenedor {
+    width:100%;
     max-width: 120rem;
     margin: 0 auto;
+    overflow: hidden;
 }
 h1, h2, h3 {
     text-align: center;
@@ -222,4 +224,10 @@ h3 {
 .formulario__submit:hover {
     cursor: pointer;
     background-color: var(--secundarioOscuro);
+}
+
+@media screen and (max-width: 600px){
+   .producto{
+       width: 230px;
+   }
 }
