@@ -226,8 +226,19 @@ h3 {
     background-color: var(--secundarioOscuro);
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
    .producto{
-       width: 190px;
+       width: 220px;
+   }
+   .producto__nombre{
+       font-size: 2.0rem;
    }
 }
+@media screen and (max-width: 460px){
+    .producto{
+        width: 200px;
+    }
+    .producto__nombre{
+        font-size: 2.0rem;
+    }
+ }
