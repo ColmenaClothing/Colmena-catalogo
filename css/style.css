@@ -226,7 +226,7 @@ h3 {
     background-color: var(--secundarioOscuro);
 }
 
-@media screen and (max-width: 1080px){
+@media screen and (max-width: 1580px){
     .producto{
         width: 190px;
     }
