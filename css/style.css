@@ -247,6 +247,11 @@ h3 {
         width: 170px;
     }
 }
+
+.redes{
+    text-align: -webkit-center;
+}
+
 .redes ul {
     display: inline-flex;
 }
