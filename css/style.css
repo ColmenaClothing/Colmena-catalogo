@@ -255,3 +255,7 @@ h3 {
 .redes ul {
     display: inline-flex;
 }
+
+.contenedor {
+    text-align: center;
+}
